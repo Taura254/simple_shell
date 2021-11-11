@@ -1,12 +1,5 @@
-#include <stdio.h>
+#include <stadio.h>
 
-/**
- * main - Entry point
- *
- * Return: Always 0
- */
-int int main(void)
-{
-	printf("Hello betty!\n");
-	return (0);
-}
+main() {
+printf("Howdy neighbor! This is my first C program.\n*);
+return 0;
